@@ -5,7 +5,7 @@
 ## 📱 Screenshot
 
 <p align="center">
-  <img src="screenshots/app_screenshot.png" alt="Quote of the Day App Screenshot" width="300">
+  <img src="screenshots/Quote of the day screenshot.png" alt="Quote of the Day App Screenshot" width="300">
 </p>
 
 ## 🎯 Mục tiêu học tập
